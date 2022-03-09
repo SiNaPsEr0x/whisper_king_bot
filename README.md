@@ -31,4 +31,4 @@
 
 ## .ᴅᴇᴩʟᴏy.
 
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItsAttitudeking/whisper_king_bot)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SiNaPsEr0x/whisper_king_bot)
